@@ -1,0 +1,11 @@
+--2018-07-23 15:50:16--  http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz
+Resolving download.tensorflow.org (download.tensorflow.org)... 172.217.161.176
+Connecting to download.tensorflow.org (download.tensorflow.org)|172.217.161.176|:80... failed: Connection timed out.
+Retrying.
+
+--2018-07-23 15:52:28--  (try: 2)  http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz
+Connecting to download.tensorflow.org (download.tensorflow.org)|172.217.161.176|:80... failed: Connection timed out.
+Retrying.
+
+--2018-07-23 15:54:40--  (try: 3)  http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz
+Connecting to download.tensorflow.org (download.tensorflow.org)|172.217.161.176|:80... failed: Invalid argument.
